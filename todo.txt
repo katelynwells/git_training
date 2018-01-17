@@ -1,4 +1,4 @@
-- Fahrenheit to celsius
+
 - Meters to centimeters
 - Hour to minutes
 - Degrees to radians
